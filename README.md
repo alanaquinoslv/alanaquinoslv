@@ -21,7 +21,7 @@
   <a href="https://www.linkedin.com/in/alan-aquino-8b76b323a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  -->
   
   
-  ## Hi! I'm Alan Aquino 👨💻
+  ## Hi! I'm Alan Aquino ⚜
 
 ### ⚒️ Tech Stack:
 
