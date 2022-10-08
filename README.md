@@ -47,8 +47,8 @@
 
 <div>
     <a href="https://github.com/alanaquinoslv">
-       <img height="145em" src="https://github-readme-stats.vercel.app/api?username=leobr1t0&show_icons=true&theme=tokyonight">
-       <img height="145em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leobr1t0&theme=tokyonight&layout=compact&langs_count=8">
+       <img height="145em" src="https://github-readme-stats.vercel.app/api?username=alanaquinoslv&show_icons=true&theme=tokyonight">
+       <img height="145em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alanaquinoslv&theme=tokyonight&layout=compact&langs_count=8">
     </a>
 </div>
  
