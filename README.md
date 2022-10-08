@@ -37,7 +37,6 @@
 ### 💻 Contact:
 
 <div>
-  
     <a href="mailto:aqnalan.s@gmail.com" target="_blank"><img alt ="Gmail logo" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
       <a href="https://www.linkedin.com/in/alan-aquino-8b76b323a/" target="_blank"><img alt ="Linkedin logo" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
     <a href="https://www.instagram.com/aqalao/" target="_blank"><img alt ="Instagram logo" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>    
