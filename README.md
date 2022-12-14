@@ -48,7 +48,7 @@
 <div  align="center"> 
   <div style="display><br>
 <!--     <img align="left" height="250" alt="coding-time" src=""> 
-    <h1 align="center">Studying in this moment:</h1>
+    <h2 align="center">Studying in this moment:</h2>
     <img align="center" height="30" width="40" alt="js-icon"  src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg">
     <img align="center" height="30" width="40" alt="html-icon" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg">
     <img align="center" height="30" width="40" alt="html-icon" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg">                         <img align="center" height="30" width="40" alt="css-icon" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg">
@@ -56,7 +56,7 @@
    </div>
                                                                                                                                                 
 <div align="center">
- <h1 align="center">Contact:</h1>
+ <h2 align="center">Contact:</h2>
     <a href="mailto:aqnalan.s@gmail.com" target="_blank"><img alt ="Gmail logo" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
       <a href="https://www.linkedin.com/in/alan-aquino-8b76b323a/" target="_blank"><img alt ="Linkedin logo" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
     <a href="https://www.instagram.com/aqalao/" target="_blank"><img alt ="Instagram logo" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>    
