@@ -47,12 +47,10 @@
 <div  align="center"> 
   <div style="display><br>
 <!--     <img align="left" height="250" alt="coding-time" src=""> 
-    <h2 align="center">Studying in this moment:</h2>
-    <img align="center" height="30" width="40" alt="js-icon"  src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg">
-    <img align="center" height="30" width="40" alt="html-icon" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg">
-    <img align="center" height="30" width="40" alt="html-icon" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg">                         <img align="center" height="30" width="40" alt="css-icon" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg">
+    <h2 align="center">Studying in this moment:</h2>                   
+    <img align="center" height="30" width="40" alt="css-icon" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg">
     <img align="center" height="30" width="40" alt="css-icon" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg">
-<img align="center" height="30" width="40" alt="css-icon" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg">
+    <img align="center" height="30" width="40" alt="css-icon" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg">
 
 </div>
 
