@@ -1,5 +1,5 @@
 # 💫 About Me:
-22y - São Paulo, SP<br>ADS - SPTech<br>Itaú Unibanco - Data Analytics
+22y - São Paulo, SP<br>Data Analytics
 
 
 ## 🌐 Socials:
