@@ -1,5 +1,5 @@
 # 💫 About Me:
-23y - São Paulo, SP<br>Data Analytics
+25y - São Paulo, SP<br>Data Analytics
 
 
 ## 🌐 Socials:
